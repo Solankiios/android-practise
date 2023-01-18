@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: 6");
 
         Log.d(TAG, "onCreate: 7");
+
+        Log.d(TAG, "onCreate: 8");
     }
 }
